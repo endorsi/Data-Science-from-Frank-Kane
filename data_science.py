@@ -1,4 +1,5 @@
 # Data Science from Frank Kane
+# functions represent the topics
 
 import scipy.stats as sp
 from sklearn.metrics import r2_score
